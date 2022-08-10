@@ -1,19 +1,19 @@
-row=3
-col=3
-for i in range(row):
-     for j in range(col):
-        if j==0:print(i+1,end=" ")   
-print()
-for i in range(row):
-     for j in range(col):
-       if i==1 and j==0:print("8",end=" ")
-       if i==1 and j==1:print("9",end=" ")
-       if i==1 and j==2:print("4")
-for i in range(row):
-    for j in range(col):
-      if i==2: print(7-j,end=" ")
+# row=3
+# col=3
+# for i in range(row):
+#      for j in range(col):
+#         if j==0:print(i+1,end=" ")   
+# print()
+# for i in range(row):
+#      for j in range(col):
+#        if i==1 and j==0:print("8",end=" ")
+#        if i==1 and j==1:print("9",end=" ")
+#        if i==1 and j==2:print("4")
+# for i in range(row):
+#     for j in range(col):
+#       if i==2: print(7-j,end=" ")
 
-print()
+# print()
 
 
 
