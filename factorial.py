@@ -8,3 +8,6 @@ else:
     for i in range(1,num+1):
         factorial=factorial+1
         print(factorial)
+
+
+
