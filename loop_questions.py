@@ -1,4 +1,4 @@
-#1. Write a program to print the following using while loop
+# 1. Write a program to print the following using while loop
 # a. First 10 Even numbers
 # b. First 10 Odd numbers
 # c. First 10 Natural numbers
